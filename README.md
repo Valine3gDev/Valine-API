@@ -7,7 +7,7 @@ Forge Energy/Fluid API clone, but handles larger numbers, called "Valine Energy"
 
 ## Valine Energy
 
-Valine Energy API is implemented same as Forge Energy API, but using BigDecimal instead of Integers.
+Valine Energy API is implemented same as Forge Energy API, but using BigDecimal instead of Integers. Also provides conversion methods to convert between various energy units.
 
 ## Valine Buckets
 
